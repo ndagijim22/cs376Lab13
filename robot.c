@@ -4,7 +4,11 @@
  * A file that contains the supporting functions for main() in the
  * ~/robots example source for Software Engineering.
  *
+<<<<<<< HEAD
  * @author Tanya L. Crenshaw, Nathan Schmedake, Aidan D.
+=======
+ * @author Tanya L. Crenshaw, Nathan Schmedake, Moses N.
+>>>>>>> 0111c00b7c04034a3edc232ef63f025738dec64d
  * @since August 2013
  *
  */
@@ -55,7 +59,11 @@ void dalekPrintAscii(void)
   printf("\n\n"
 	 "I am Dalek, from Dr. Who\n"
 	 "%s      <----->      \n" 
+<<<<<<< HEAD
          "%s     <  (X)  >     \n"        
+=======
+ "%s     <  (0)  >     \n"        
+>>>>>>> 0111c00b7c04034a3edc232ef63f025738dec64d
          "%s     |       |     \n"
          "%s    < ------- >    \n"
          "%s    o         o    \n"
