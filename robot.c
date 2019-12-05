@@ -59,11 +59,9 @@ void dalekPrintAscii(void)
   printf("\n\n"
 	 "I am Dalek, from Dr. Who\n"
 	 "%s      <----->      \n" 
-<<<<<<< HEAD
          "%s     <  (X)  >     \n"        
-=======
  "%s     <  (0)  >     \n"        
->>>>>>> 0111c00b7c04034a3edc232ef63f025738dec64d
+
          "%s     |       |     \n"
          "%s    < ------- >    \n"
          "%s    o         o    \n"
