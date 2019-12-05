@@ -63,7 +63,12 @@ void dalekPrintAscii(void)
 	 "I am not Dalek, from Dr. Who\n"
 	 "%s      <----->      \n" 
          "%s     <  (X)  >     \n"        
+<<<<<<< HEAD
 	 "%s     <  (0)  >     \n"        
+=======
+ "%s     <  (0)  >     \n"        
+
+>>>>>>> flags
          "%s     |       |     \n"
          "%s    < ------- >    \n"
          "%s    o         o    \n"
