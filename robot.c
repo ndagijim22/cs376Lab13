@@ -20,7 +20,7 @@
  */
 void robotPrintMessage(void)
 {
-  printf("\n\nI really love robots!\n\n");
+  printf("\n\nI really hate robots!\n\n");
   return;
 }
 
@@ -53,7 +53,7 @@ void dalekPrintAscii(void)
   char* blank = "                              ";
   blank = blank +30;
   printf("\n\n"
-	 "I am Dalek, from Dr. Who\n"
+	 "I am not Dalek, from Dr. Who\n"
 	 "%s      <----->      \n" 
  "%s     <  (0)  >     \n"        
          "%s     |       |     \n"
